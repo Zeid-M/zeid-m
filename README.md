@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=48&color=4493F8&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Zeid;Software+Engineer;Python+Developer;Linux+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=48&color=4493F8&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Hi%2C+I'm+Zeid" alt="Typing SVG" />
 </h1>
 
 #### I'm a Software Engineer specializing in Python, automation, databases, and Linux.
